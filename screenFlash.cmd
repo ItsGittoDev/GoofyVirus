@@ -1,0 +1,19 @@
+@echo off
+:loop
+color 07
+color 17
+color 27
+color 37
+color 47
+color 57
+color 67
+color 70
+color 80
+color 90
+color a0
+color b0
+color c0
+color d0
+color e0
+color f0
+goto loop
